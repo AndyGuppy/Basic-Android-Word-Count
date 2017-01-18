@@ -1,0 +1,5 @@
+<resources>
+    <string name="word_count">WordCount</string>
+    <string name="wordstocount">Enter some words to count</string>
+    <string name="count">Count the Words</string>
+</resources>
